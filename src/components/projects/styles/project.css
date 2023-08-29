@@ -20,7 +20,6 @@
 	background: #fafafa;
 	opacity: 1;
 	transition: background-color 0.3s ease-in-out;
-	color: black;
 }
 
 .project:hover .project-link {

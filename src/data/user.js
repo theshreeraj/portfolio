@@ -1,7 +1,7 @@
 const INFO = {
 	main: {
-		title: "Shreeraj Mane's Portfolio",
-		name: "Shreeraj Mane",
+		title: "Sumit Jadhav",
+		name: "Sumit Jadhav",
 		email: "shreerajmane07@gmail.com",
 		logo: "../logo.png",
 	},
@@ -15,9 +15,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "UX Designer and Front-end Developer",
+		title: "Java Developer",
 		description:
-			"I seamlessly blend design and code to create distinctive digital products that boost the online brand presence of founders, startups, and creators. With a focus on polish and attention to detail, I deliver exceptional user experiences that leave a lasting impact.",
+			"I blend design unknowingly and code to create distinctive digital products that boost the online brand presence of founders, startups, and creators. With a focus on polish and attention to detail, I deliver exceptional user experiences that leave a lasting impact.",
 	},
 
 	about: {
